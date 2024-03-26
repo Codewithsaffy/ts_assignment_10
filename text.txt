@@ -1,0 +1,21 @@
+1. Palindrome Checker: Create a function that checks whether a given string is a palindrome (reads the same backward as forward).
+
+2. Temperature Converter: Write a program that converts temperatures between Celsius and Fahrenheit scales.
+
+3. Factorial Calculator: Implement a function to calculate the factorial of a non-negative integer.
+
+4. FizzBuzz: Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz". For numbers that are multiples of both three and five, print "FizzBuzz".
+
+5. Prime Number Checker: Develop a function to determine whether a given positive integer is a prime number.
+
+6. Fibonacci Sequence: Create a function to generate the Fibonacci sequence up to a specified number of terms.
+
+7. Anagram Checker: Implement a function to check if two strings are anagrams of each other (contain the same characters in a different order).
+
+8. BMI Calculator: Write a program that calculates the Body Mass Index (BMI) based on a person's weight and height.
+
+9. Random Password Generator: Develop a function to generate a random password of a specified length, including a mix of uppercase letters, lowercase letters, numbers, and special characters.
+
+10. File Reader: Create a program that reads the contents of a text file and outputs its content to the console.
+
+
