@@ -5,5 +5,5 @@ fs.readFile(file, (err, data) => {
         console.error(err);
         return;
     }
-    console.log(data);
+    console.log(data.toString());
 });
